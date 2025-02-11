@@ -35,7 +35,7 @@ nav div {
   display: grid;
   grid-template-columns: 1fr 1fr;
   column-gap: 0;
-	row-gap: 0;
+  row-gap: 0;
   margin-bottom: 20px;
 }
 
